@@ -1,7 +1,7 @@
 # CYB 621 Lab 2 — AI Code Review and Memory-Safety Validation
 
 ## Prediction (written before generating Assistant 2)
-<Replace with your one-sentence prediction>
+I predict the word "secure" will make the AI add input validation and length checks, but the output may still contain risky API choices that only independent testing will reveal.
 
 ## Generation details
 | File | AI agent | Prompt |
