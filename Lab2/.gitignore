@@ -1,0 +1,6 @@
+codeql-db/
+*.o
+assistant1
+assistant2
+assistant1_san
+assistant2_san
